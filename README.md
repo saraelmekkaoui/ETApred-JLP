@@ -1,2 +1,6 @@
 # Vessel-ETA-Prediction
-This project is about the prediction of vessel Estimated Time of Arrivals to destination port. 
+Code and data related to the models proposed in tha paper "Deep Learning Models for Vessel’s ETA Prediction: Bulk Ports Perspective". \\
+This repository contains:
+
+
+
